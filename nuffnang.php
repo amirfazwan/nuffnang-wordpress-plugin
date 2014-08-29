@@ -30,16 +30,16 @@ function nuffnang($type='', $echo = 1) {
 	
 		switch($type) {
 			case 'leaderboard':
-				$output .= "k.js";
+				$output .= "lb.js";
 				$format .= 'leaderboard';
 				break;
 			case 'rectangle':
-				$output .= "j.js";
+				$output .= "lr.js";
 				$format .= 'rectangle';
 				break;
 			case 'skyscraper':
 			default:
-				$output .= "lmn.js";
+				$output .= "ss.js";
 				$format .= 'skyscraper';
 				break;		
 		}
@@ -47,7 +47,7 @@ function nuffnang($type='', $echo = 1) {
 		$ads = '
 		<!-- nuffnang -->
 		<div class="nuffnang-'. $format .'">
-		<script type="text/javascript" src="http://synad.nuffnang.com.my/adsprovider/' . $output .'"></script>
+		<script type="text/javascript" src="http://synad2.nuffnang.com.my/' . $output .'"></script>
 		</div>
 		<!-- nuffnang -->
 		';
