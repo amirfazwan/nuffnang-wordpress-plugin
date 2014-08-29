@@ -1,3 +1,4 @@
+Nuffnang Wordpress Plugin
 =========================
 
 Version
