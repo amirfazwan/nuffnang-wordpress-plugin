@@ -1,13 +1,15 @@
-nuffnang-wordpress-plugin
 =========================
 
-nuffnang wordpress plugin
+Version
+----
+2.0
 
-Original version:
-Author: Safirul Alredha
-Author URI: http://zeo.unic.net.my
-Plugin URI: http://zeo.unic.net.my/notes/nuffnang-wordpress-plugin/
-Only support WordPress 2.1 and above. Last updated on 10th August 2007
+Original Author: Safirul Alredha. 
 
-Let's together build together for latest version of WordPress.
+Author URI: http://zeo.unic.net.my. 
 
+Plugin URI: http://zeo.unic.net.my/notes/nuffnang-wordpress-plugin/.
+
+Only support WordPress 2.1 and above. Last updated on 10th August 2007.
+
+####Let's together build the plugin to support the latest version of WordPress and Nuffnang.
